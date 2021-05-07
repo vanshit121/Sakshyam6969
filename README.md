@@ -114,5 +114,5 @@ You can always Support me by inviting one of my **own Discord Bots**
 
 [![Calyso](https://cdn.discordapp.com/attachments/832881715662946334/840261900071731200/j6q11fCg_400x400.png)](https://discord.gg/9ut5VfWN)
 [![Musicium Music Bot](https://cdn.discordapp.com/attachments/832881715662946334/840261614447099914/1571585.png)](https://discord.gg/9ut5VfWN)
-[![SkyNet Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://discord.gg/9ut5VfWN)
+[![SkyNet Multi Bot](https://cdn.discordapp.com/attachments/832881715662946334/840263168772931594/aa5993a847fb01c3a5451ef40a53d0db1813803d_original.png)[(https://discord.gg/9ut5VfWN)
 
