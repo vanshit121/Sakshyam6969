@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @sakshyam6969
-- 👀 I’m interested in Discord Bot Coding
-- 🌱 I’m currently learning  Java Script
-- 🔭 I’m Currently Working on a Website
-- ❓ I Am In Love  With Coding Discord Bots, I also Love Helping!
+Hello, Im DarkThunder 
+const Dark Thunder = {
+  languages: ["Node.js", "Python", "Transcript"], //And so many
+  favoriteNumber: 9, //I like this number :)
+Things I use to code
 
-<!---
-sakshyam6969/sakshyam6969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+GitHub Activity
+https://camo.githubusercontent.com/4799771324101986d0f0c541d597b93192f11421f845b2832cbffeb98888f252/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4461726b5468756e6465723939267468656d653d64726163756c61
+
+
