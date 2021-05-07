@@ -87,22 +87,6 @@
 <div align="center">
 <p><a href="https://github.com/sakshyam6969"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshyam6969&amp;layout=compact" alt="Top Langs"></a></p></div>  
   
-## Projects  
-You must checkout these projects!!<br/><br/>
-<div align="center">
-<p><a href="https://github.com/Tomato6966/Musicium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=Musicium" alt="Musicium" /></a>
-<a href="https://github.com/Tomato6966/distube-music-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=distube-music-bot" alt="distube-music-bot" /></a>
-<a href="https://github.com/Tomato6966/better-discord-ranking-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=better-discord-ranking-system" alt="better-discord-ranking-system" /></a>
-<a href="https://github.com/Tomato6966/Suggestion-Bot-databases"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=Suggestion-Bot-databases" alt="Suggestion-Bot-databases" /></a>
-<a href="https://github.com/Tomato6966/Waitingroom-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=Waitingroom-Bot" alt="Waitingroom-Bot" /></a>
-<a href="https://github.com/Tomato6966/distube-music-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=distube-music-bot" alt="distube-music-bot" /></a>
-<a href="https://github.com/Tomato6966/Discord-Join-to-Create"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=Discord-Join-to-Create" alt="Discord-Join-to-Create" /></a>
-<a href="https://github.com/Tomato6966/Discord-Js-Handler-Template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=Discord-Js-Handler-Template" alt="Discord-Js-Handler-Template" /></a>
-<a href="https://github.com/Tomato6966/discord-js-tutorial"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=discord-js-tutorial" alt="discord-js-tutorial" /></a>
-<a href="https://github.com/Tomato6966/how-to-setup-your-linux-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=how-to-setup-your-linux-server" alt="how-to-setup-your-linux-server" /></a>
-<a href="https://github.com/Tomato6966/Discord-Rich-Presence"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=Discord-Rich-Presence" alt="Discord-Rich-Presence" /></a></p>
-</div>  
-  
 
 ![](https://hit.yhype.me/github/profile?user_id=34748927)
 
