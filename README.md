@@ -61,16 +61,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Tomato6966" target="_blank">
+<a href="https://github.com/sakshyam6969" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Tomato6966" target="_blank">
+<a href="https://twitter.com/gang_bye" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://musicium.eu" target="_blank">
+<a href="https://discord.gg/HxV5fcZPYZ" target="_blank">
 <img src=https://img.shields.io/badge/Website-%2308090A.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Website style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.gg/fS6qBSm" target="_blank">
+<a href="https://discord.gg/HxV5fcZPYZ" target="_blank">
 <img src=https://img.shields.io/badge/DiscordServer-%23F28032.svg?&style=for-the-badge&logo=DiscordServer&logoColor=white alt=DiscordServer style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -80,12 +80,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tomato6966&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sakshyam6969&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-<p><a href="https://github.com/Tomato6966"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomato6966&amp;layout=compact" alt="Top Langs"></a></p></div>  
+<p><a href="https://github.com/sakshyam6969"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshyam6969&amp;layout=compact" alt="Top Langs"></a></p></div>  
   
 ## Projects  
 You must checkout these projects!!<br/><br/>
